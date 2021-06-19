@@ -1,3 +1,4 @@
 .serverless/
 .deno_dir
+deno-lambda-layer/
 output.json

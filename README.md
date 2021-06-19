@@ -2,6 +2,12 @@
 
 ## docker-lambda
 
+First, `deno-lambda-layer` is needed to unzip.
+
+```
+❯ unzip deno-lambda-layer.zip
+```
+
 ### direct run
 
 ```
